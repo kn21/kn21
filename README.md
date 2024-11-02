@@ -1,5 +1,9 @@
 ## Hi there 👋
-# About me
+## About me
+Applied physics exploring data science and machine learning
+## Languages and Tools
+Python (Pandas | Numpy | Scipy | Astropy), C++, Java, Javascript, Wolfram (Mathematica), LaTex
+Machine Learning (Scikit Learn | Keras | BERT | NLTK), Data visualization (Matplotlib | Seaborn)
 <!--
 **kn21/kn21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
