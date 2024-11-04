@@ -1,6 +1,6 @@
 # hi im kienn! <sub>any/all ♾️ 💛🤍💜🖤</sub> 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kn21&theme=synthwave&show_icons=true) ![transformers autobot-decepticon insignia transition](https://media.tenor.com/uZ7VpfKp6R0AAAAM/transformers-autobots.gif)
+![transformers autobot-decepticon insignia transition](https://media.tenor.com/uZ7VpfKp6R0AAAAM/transformers-autobots.gif) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kn21&theme=synthwave&show_icons=true)
 
 ## About me 💃
 Studied **Applied Physics at University of California, Irvine**. Exploring **data science** and **machine learning**.
@@ -33,6 +33,8 @@ GPA 3.7 | Regents Scholar | Dean’s Honor | Experimental Data Analysis, Symboli
 Aspiring Sci-fi Author | Digital Character Artist | Dungeons & Dragons | Literature | Crochet
 
 <sub>Social thriller and southern gothic. Themes range from conformity horror to queer subtext.</sub>
+
+![star trek dr. bashir and garak exclaiming - an excellent idea!](https://64.media.tumblr.com/12fd53267b2fe90a31051ccc02348ccf/tumblr_nrea494x5X1qk2j9no4_400.gif)
 
 # Contact me ✉️
 email: kaylinttnguyen@gmail.com
