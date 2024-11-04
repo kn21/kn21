@@ -1,4 +1,5 @@
 # ✨ hi im kienn! <sub>any/all</sub> ♾️ 💛🤍💜🖤
+![my face. cold lighting and a dead stare. positioning that is perhaps too perfect. an ambigous cut that borders on inhuman. a professional portrait forged in ice steel. lifeless. liminal. linkedin esque.](https://media.licdn.com/dms/image/v2/D5603AQHpyt-YlpMBYw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1730255476431?e=1736380800&v=beta&t=1pv3FGmisOrxYymiG3H_sqVuNFNJphJ0vWHk6scDH-I) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kn21&theme=synthwave&show_icons=true)
 
 ## About me 💃
 Studied **Applied Physics at University of California, Irvine**. Exploring **data science** and **machine learning**.
@@ -35,24 +36,11 @@ Aspiring Sci-fi Author | Digital Character Artist | Dungeons & Dragons | Literat
 # Contact me ✉️
 email: kaylinttnguyen@gmail.com
 
-linkedin: https://www.linkedin.com/in/kaylin-kienn-nguyen/
+linkedin: [Kienn Nguyen](https://www.linkedin.com/in/kaylin-kienn-nguyen/)
 
 Based in the U.S, California and Texas. ~~making the daily 3 hr commute~~
 
-![Visitor Count](https : //profile-counter.glitch.me/{kn21}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{kn21}/count.svg)
 
 >[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Yours+in+distress,;Alan)](https://git.io/typing-svg)
-<!--
-**kn21/kn21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
