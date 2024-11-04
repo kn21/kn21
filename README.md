@@ -1,5 +1,4 @@
-# ✨ hi im kienn! ♾️ 💛🤍💜🖤
-<sub>any/all</sub>
+# ✨ hi im kienn! <sub>any/all</sub> ♾️ 💛🤍💜🖤
 
 ## About me 💃
 Studied **Applied Physics at University of California, Irvine**. Exploring **data science** and **machine learning**.
@@ -23,6 +22,7 @@ From astronomical readings to natural language processing, my experience with da
 
 ## Education 📐
 **Applied Physics B.S.** | University of California, Irvine (UCI) | 2022-2025
+
 GPA 3.7 | Regents Scholar | Dean’s Honor | Experimental Data Analysis, Symbolic Computation
 
 **Certificate | Machine Learning Foundations | Python Programming** | Break Through Tech AI | Cornell University, University of California, Los Angeles (UCLA) | 2024
@@ -30,16 +30,17 @@ GPA 3.7 | Regents Scholar | Dean’s Honor | Experimental Data Analysis, Symboli
 
 ## Hobbies 📚
 Aspiring Sci-fi Author | Digital Character Artist | Dungeons & Dragons | Literature | Crochet
+
 <sub>Social thriller and southern gothic. Themes range from conformity horror to queer subtext.</sub>
 
 # Contact me ✉️
 email: kaylinttnguyen@gmail.com
+
 linkedin: https://www.linkedin.com/in/kaylin-kienn-nguyen/
+
 Based in the U.S, California and Texas. ~~making the daily 3 hr commute~~
 
-```
 ![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
-```
 
 >[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Yours+in+distress,;Alan)](https://git.io/typing-svg)
 <!--
