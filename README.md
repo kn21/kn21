@@ -1,5 +1,4 @@
 # hi im kienn! <sub>any/all ♾️ 💛🤍💜🖤</sub> 
-<img src="https://media.licdn.com/dms/image/v2/D5603AQHpyt-YlpMBYw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1730255476431?e=1736380800&v=beta&t=1pv3FGmisOrxYymiG3H_sqVuNFNJphJ0vWHk6scDH-I" alt = "my face. cold lighting and a dead stare. positioning that is perhaps too perfect. an ambigous cut that borders on inhuman. a professional portrait forged in ice steel. lifeless. liminal. linkedin esque." width=10% height=10%> 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kn21&theme=synthwave&show_icons=true)
 
@@ -43,6 +42,7 @@ linkedin: [Kienn Nguyen](https://www.linkedin.com/in/kaylin-kienn-nguyen/)
 Based in the U.S, California and Texas. ~~making the daily 3 hr commute~~
 
 ![Visitor Count](https://profile-counter.glitch.me/{kn21}/count.svg)
+
 
 >[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Yours+in+distress,;Alan)](https://git.io/typing-svg)
 
