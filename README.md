@@ -1,6 +1,6 @@
 # hi im kienn! <sub>any/all ♾️ 💛🤍💜🖤</sub> 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kn21&theme=synthwave&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kn21&theme=synthwave&show_icons=true) ![transformers autobot-decepticon insignia transition](https://media.tenor.com/uZ7VpfKp6R0AAAAM/transformers-autobots.gif)
 
 ## About me 💃
 Studied **Applied Physics at University of California, Irvine**. Exploring **data science** and **machine learning**.
