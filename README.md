@@ -3,17 +3,17 @@
 ![transformers autobot-decepticon insignia transition](https://media.tenor.com/uZ7VpfKp6R0AAAAM/transformers-autobots.gif) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kn21&theme=synthwave&show_icons=true)
 
 ## About me 💃
-**Applied Physics at University of California, Irvine**. Exploring **data science** and **machine learning**.
+**Applied Physics at University of California, Irvine**. Exploring **data science** and **machine learning**.<br />
 Physics = versatility, rigorous problem solving, and a taste for challenge. From art, to writing, to data science, my greatest satisfaction has come from directing projects at inception to the final product.
 
 
 ## Tech Stack 🐸
-**Python** (Pandas | Numpy | Scipy | Astropy), C++, Java, Javascript, Wolfram (Mathematica), LaTex
+**Python** (Pandas | Numpy | Scipy | Astropy), C++, Java, Javascript, Wolfram (Mathematica), LaTex<br />
 Machine Learning (Scikit Learn | Keras | BERT | NLTK), Data visualization (Matplotlib | Seaborn)
 
 
 ## Featured Project 💡
-**CariConnect** with Break Through Tech LA and Caribbean Literary Conference (CARICON)
+**CariConnect** with Break Through Tech LA and Caribbean Literary Conference (CARICON)<br />
 Ranked recommendation system based on integrated clustering and NLP model. Matches upcoming others with prospective publishers. Input book information gathers similar books from existing dataset and fetches respective publishers, with ranking and generated explanation. <br />
 Link: <sub>[TBA](https://youtu.be/RyBTJTCmd0A?si=njDndeowzQ1FjVPV) :3</sub>
 
