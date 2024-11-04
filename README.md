@@ -3,7 +3,7 @@
 ![transformers autobot-decepticon insignia transition](https://media.tenor.com/uZ7VpfKp6R0AAAAM/transformers-autobots.gif) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kn21&theme=synthwave&show_icons=true)
 
 ## About me 💃
-Studied **Applied Physics at University of California, Irvine**. Exploring **data science** and **machine learning**.
+**Applied Physics at University of California, Irvine**. Exploring **data science** and **machine learning**.
 Physics = versatility, rigorous problem solving, and a taste for challenge. From art, to writing, to data science, my greatest satisfaction has come from directing projects at inception to the final product.
 
 
