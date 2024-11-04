@@ -43,9 +43,9 @@ linkedin: [Kienn Nguyen](https://www.linkedin.com/in/kaylin-kienn-nguyen/)
 Based in the U.S, California and Texas. ~~making the daily 3 hr commute~~
 
 
-#
 ![Visitor Count](https://profile-counter.glitch.me/{kn21}/count.svg)
 
 
+#
 
 >[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Yours+in+distress,;;Alan)](https://git.io/typing-svg)
