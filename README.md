@@ -30,8 +30,7 @@ GPA 3.7 | Regents Scholar | Dean’s Honor | Experimental Data Analysis, Symboli
 
 
 ## Hobbies 📚
-Aspiring Sci-fi Author | Digital Character Artist | Dungeons & Dragons | Literature | Crochet
-
+Aspiring Sci-fi Author | Digital Character Artist | Dungeons & Dragons | Literature | Crochet <br />
 <sub>Social thriller and southern gothic. Themes range from conformity horror to queer subtext.</sub>
 
 ![star trek dr. bashir and garak exclaiming - an excellent idea!](https://64.media.tumblr.com/12fd53267b2fe90a31051ccc02348ccf/tumblr_nrea494x5X1qk2j9no4_400.gif)
