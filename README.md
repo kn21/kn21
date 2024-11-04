@@ -1,5 +1,5 @@
 # ✨ hi im kienn! <sub>any/all</sub> ♾️ 💛🤍💜🖤
-![my face. cold lighting and a dead stare. positioning that is perhaps too perfect. an ambigous cut that borders on inhuman. a professional portrait forged in ice steel. lifeless. liminal. linkedin esque.](https://media.licdn.com/dms/image/v2/D5603AQHpyt-YlpMBYw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1730255476431?e=1736380800&v=beta&t=1pv3FGmisOrxYymiG3H_sqVuNFNJphJ0vWHk6scDH-I | width=100)     ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kn21&theme=synthwave&show_icons=true)
+![my face. cold lighting and a dead stare. positioning that is perhaps too perfect. an ambigous cut that borders on inhuman. a professional portrait forged in ice steel. lifeless. liminal. linkedin esque.](https://media.licdn.com/dms/image/v2/D5603AQHpyt-YlpMBYw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1730255476431?e=1736380800&v=beta&t=1pv3FGmisOrxYymiG3H_sqVuNFNJphJ0vWHk6scDH-I){: width="50%"}     ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kn21&theme=synthwave&show_icons=true)
 
 ## About me 💃
 Studied **Applied Physics at University of California, Irvine**. Exploring **data science** and **machine learning**.
