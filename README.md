@@ -23,7 +23,7 @@ From astronomical readings to natural language processing, my experience with da
 
 
 ## Education 📐
-**Applied Physics B.S.** | University of California, Irvine (UCI) <img src="https://preview.redd.it/famous-uci-alumni-v0-76ircp66kp2b1.jpg?width=640&crop=smart&auto=webp&s=17cae9abbaeff60bab31a6e4dd61a0e0b10865cb" width=5% height = 5%> | 2022-2025
+**Applied Physics B.S.** | University of California, Irvine (UCI) <img src="https://preview.redd.it/famous-uci-alumni-v0-76ircp66kp2b1.jpg?width=640&crop=smart&auto=webp&s=17cae9abbaeff60bab31a6e4dd61a0e0b10865cb" width=1% height = 1%> | 2022-2025
 GPA 3.7 | Regents Scholar | Dean’s Honor | Experimental Data Analysis, Symbolic Computation
 
 **Certificate | Machine Learning Foundations | Python Programming** | Break Through Tech AI | Cornell University, University of California, Los Angeles (UCLA) | 2024
