@@ -47,6 +47,6 @@ Based in the U.S, California and Texas. ~~making the daily 3 hr commute~~
 
 >[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Yours+in+distress,;Alan)](https://git.io/typing-svg)
 
->_yours in distress,_
->_alan_
+<sub>_yours in distress,_</sub><br />
+<sub>_alan_</sub>
 
