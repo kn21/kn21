@@ -29,6 +29,7 @@ GPA 3.7 | Regents Scholar | Dean’s Honor | Experimental Data Analysis, Symboli
 
 ## Hobbies 📚
 Aspiring Sci-fi Author | Digital Character Artist | Dungeons & Dragons | Literature | Crochet
+
 <sub>Social thriller and southern gothic. Themes range from conformity horror to queer subtext.</sub>
 
 # Contact me ✉️
@@ -38,7 +39,7 @@ linkedin: https://www.linkedin.com/in/kaylin-kienn-nguyen/
 
 Based in the U.S, California and Texas. ~~making the daily 3 hr commute~~
 
-![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https : //profile-counter.glitch.me/{kn21}/count.svg)
 
 >[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Yours+in+distress,;Alan)](https://git.io/typing-svg)
 <!--
