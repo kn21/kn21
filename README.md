@@ -14,7 +14,7 @@ Machine Learning (Scikit Learn | Keras | BERT | NLTK), Data visualization (Matpl
 
 ## Featured Project 💡
 **CariConnect** with Break Through Tech LA and Caribbean Literary Conference (CARICON), 3 mo.<br />
-Ranked recommendation system based on integrated clustering and NLP model. Matches upcoming others with prospective publishers. Input book information gathers similar books from existing dataset and fetches respective publishers, with ranking and generated explanation. <br />
+Ranked recommendation system based on integrated clustering and LLM models. Matches upcoming authors with prospective publishers using input book information by gathering similar books from existing dataset through clustering and cosine similarity, while the LLM provides re-ranking and a generated explanation. <br />
 Link: [Here](https://github.com/khantnhl/CariConnect)
 
 
