@@ -16,11 +16,9 @@ Ranked recommendation system based on integrated clustering and LLM models. Matc
 Link: [Here](https://github.com/khantnhl/CariConnect)
 
 ## Education 📐
-**Applied Physics B.S.** | University of California, Irvine (UCI) | 2022-2025 <img src="https://preview.redd.it/famous-uci-alumni-v0-76ircp66kp2b1.jpg?width=640&crop=smart&auto=webp&s=17cae9abbaeff60bab31a6e4dd61a0e0b10865cb" width=5% height = 5%> <br />
+**Applied Physics B.S.** | University of California, Irvine (UCI) | 2022-2025 
 GPA 3.7 | Regents Scholar | Dean’s Honor | Experimental Data Analysis, Symbolic Computation
 
 **Certificate | Machine Learning Foundations | Python Programming** | Break Through Tech AI | Cornell University, University of California, Los Angeles (UCLA) | 2024
 
 #
-
->[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Yours+in+distress,;;Alan)](https://git.io/typing-svg)
